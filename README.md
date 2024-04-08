@@ -15,6 +15,6 @@ Pre-trained models can be found under following link: [One-Drive](https://ntoued
 
 
 ### Acknowledgments
-The main code is based upon [FOMM](https://github.com/AliaksandrSiarohin/first-order-model) and [TPSM](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model)
+The main code is based upon [FOMM](https://github.com/AliaksandrSiarohin/first-order-model) and [TPSM](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model).
 
 Thanks for the excellent works!
